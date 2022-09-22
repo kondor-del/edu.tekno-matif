@@ -2,7 +2,7 @@
   "name-web":"STACKOVERFLOW MASKODING",
   "author":"MASKODING",
   "remove-comment-html":true,
-  "target":"https://kondor-del.github.io/",
+  "target":"https://m.tribunnews.com",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
@@ -134,7 +134,7 @@
         },
         {
           "name-attribute":"content",
-          "value-attribute":"RA5GbFmgbVTNqs1LHRIVfe75DfFPF2WH8DdyoHDh1PQ"
+          "value-attribute":"uW5xEIBcKuR1GUSnzqWvQ1AMW9vLYCSluU58yWRLGl8"
         }
       ],
       "data-innerHTML":"",
